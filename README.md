@@ -19,7 +19,7 @@ Follow these steps to run the script:
 4. Open `getOwners.js` and update the value of the contract address on line 13 and the token ID on line 16 to reflect the NFT that you will be querying. 
 
 
-5. Install the Alchemy SDK and the `dotenv` package running the following commands:
+5. Install the Alchemy SDK and the `dotenv` package running either of the following commands:
    - `npm i alchemy-sdk dotenv`
    - `yarn add alchemy-sdk dotenv`
 
